@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/sarafpradumna/Test-repo/compare/v0.3.0...v1.0.0) (2022-06-18)
+
+
+* chore!: drop support for Node 6 ([1e48fd3](https://github.com/sarafpradumna/Test-repo/commit/1e48fd35aad2de6c747755ecbb272f8fb1d200c0))
+
+
+### BREAKING CHANGES
+
+* use JavaScript features not available in Node 6.
+
+
+
 # [0.3.0](https://github.com/sarafpradumna/Test-repo/compare/v0.2.0...v0.3.0) (2022-06-18)
 
 
