@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/sarafpradumna/Test-repo/compare/v1.0.0...v2.0.0) (2022-06-18)
+
+
+* Update test.md ([4984ab3](https://github.com/sarafpradumna/Test-repo/commit/4984ab3b5b8dbd7f0593b10dc58865c185f69361))
+
+
+### BREAKING CHANGES
+
+* use JavaScript features not available in Node 6.
+
+
+
 # [1.0.0](https://github.com/sarafpradumna/Test-repo/compare/v0.3.0...v1.0.0) (2022-06-18)
 
 
