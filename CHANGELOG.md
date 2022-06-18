@@ -1,3 +1,12 @@
+## [2.0.2](https://github.com/sarafpradumna/Test-repo/compare/v2.0.1...v2.0.2) (2022-06-18)
+
+
+### Bug Fixes
+
+* fdf ([6427baf](https://github.com/sarafpradumna/Test-repo/commit/6427baf96b549a59cf70ab702f5d95cd7210496c))
+
+
+
 ## [2.0.1](https://github.com/sarafpradumna/Test-repo/compare/v2.0.0...v2.0.1) (2022-06-18)
 
 
@@ -44,15 +53,6 @@
 ### Features
 
 * add ([44afd16](https://github.com/sarafpradumna/Test-repo/commit/44afd163a7bde6ec24257567d89081262858d283))
-
-
-
-# [0.2.0](https://github.com/sarafpradumna/Test-repo/compare/v0.1.0...v0.2.0) (2022-06-17)
-
-
-### Features
-
-* added new file ([475d1ea](https://github.com/sarafpradumna/Test-repo/commit/475d1ea0045d4b5c46f0034b7ff1c97b14816f3f))
 
 
 
