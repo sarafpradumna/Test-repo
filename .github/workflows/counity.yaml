@@ -21,4 +21,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "<h3>Hey! contributor, thank you for opening a Pull Request 🎉.</h3>"
           pr-message: "<h3>Hey! contributor, thank you for opening a Pull Request 🎉.</h3>"
-          footer: "Soon one of our maintaners will rewview it and provide you the feedback/suggestion. If you think it's something urgent, feel free to reach out <a href='https://twitter.com/home'>Pradumna Saraf</a> on <b>Twitter.</b>"
+          footer: "Soon one of our maintainers will review it and provide you with feedback/suggestions. If you think it's something urgent, feel free to reach out <a href='https://twitter.com/home'>Pradumna Saraf</a> on <b>Twitter.</b><br><b>Happy, Open Source!</b>"
