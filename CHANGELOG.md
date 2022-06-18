@@ -1,3 +1,12 @@
+## [2.0.3](https://github.com/sarafpradumna/Test-repo/compare/v2.0.2...v2.0.3) (2022-06-18)
+
+
+### Bug Fixes
+
+* sdsd ([fef31a5](https://github.com/sarafpradumna/Test-repo/commit/fef31a5b6075079afa5ed0846f2cea8f786d8b7a))
+
+
+
 ## [2.0.2](https://github.com/sarafpradumna/Test-repo/compare/v2.0.1...v2.0.2) (2022-06-18)
 
 
@@ -24,8 +33,19 @@
 
 ### BREAKING CHANGES
 
-* u
-* add ([44afd16](https://github.com/sarafpradumna/Test-repo/commit/44afd163a7bde6ec24257567d89081262858d283))
+* use JavaScript features not available in Node 6.
+
+
+
+# [1.0.0](https://github.com/sarafpradumna/Test-repo/compare/v0.3.0...v1.0.0) (2022-06-18)
+
+
+* chore!: drop support for Node 6 ([1e48fd3](https://github.com/sarafpradumna/Test-repo/commit/1e48fd35aad2de6c747755ecbb272f8fb1d200c0))
+
+
+### BREAKING CHANGES
+
+* use JavaScript features not available in Node 6.
 
 
 
